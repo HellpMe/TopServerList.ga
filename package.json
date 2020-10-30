@@ -1,5 +1,5 @@
 {
-  "name": "dlist-api",
+  "name": "topserverlist",
   "version": "0.0.1",
   "description": "Best Discord server list",
   "main": "src/bot.ts",
@@ -11,8 +11,8 @@
     "dev": "ts-node-dev src/bot.ts"
   },
   "keywords": [],
-  "author": "ADAMJR#0001",
-  "license": "ISC",
+  "author": "ADAMJR",
+  "license": "",
   "dependencies": {
     "@lykmapipo/rate-limit-mongoose": "^0.1.29",
     "axios": "^0.19.2",
